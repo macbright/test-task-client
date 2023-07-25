@@ -1,0 +1,16 @@
+.selectTags {
+    max-height: 50vh;
+    overflow: hidden;
+
+}
+
+select:not(:-internal-list-box) {
+    max-height: 300px;
+}
+
+/* .priceFilter {
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+} */

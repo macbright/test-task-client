@@ -77,7 +77,7 @@ function Event() {
                 <strong className='mr-10'> Max Price: </strong> <span> {event?.max_price}</span>
             </div>
             <div className='my-8'>
-                <strong className='mr-10'> Min Price: </strong> <span> {event?.max_price}</span>
+                <strong className='mr-10'> Min Price: </strong> <span> {event?.min_price}</span>
             </div>
     </div>
   );
